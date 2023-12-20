@@ -14,7 +14,7 @@ I understand that I will be required to provide additional KYC information to th
 - [ ] No
 
 ## Recipient address:
-`0x8A0E6A5819780457b7d2C86466fc08ccE5521056` 
+`0x3157fb43Ae39e60FF9Db81AdFf4A2B16bb30e4c6` 
 
 ## Grant category: 
 - [X] DeFi
