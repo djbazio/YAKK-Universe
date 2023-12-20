@@ -61,7 +61,7 @@ The YAKK project aims to address the lack of a comprehensive platform in the JIB
 
 ## Number of JBC tokens requested:
 
-500,000 JBC สำหรับ 1 ปีแรก และไม่น้อยกว่า 300,000 JBC ในปีถัดไป
+500,000 JBC in 1st year and in the next year not more than 300,000 JBC 
 
 ## Did the project apply for or receive JBC tokens through the Foundation Partner Fund?:
 - [ ] Yes
