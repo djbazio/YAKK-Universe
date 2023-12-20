@@ -4,15 +4,17 @@ YAKK THAI NETWORK
 
 ## Author name and contact info 
 (please provide a reliable point of contact for the project):
-1. Pongsin Pongwachirint (pongsin.p@jaroendeekhuen.com) / tel: +66649244991
-2. John Khai (https://www.linkedin.com/in/john-kai-0672b0287/) 
+1. Sumaytawadee Seehabong (sumay.s@jaroendeekhuen.com) : Tel +66 64 251 4454
+2. Pongsin Pongwachirint (pongsin.p@jaroendeekhuen.com) : Tel +66 64 924 4991
+3. Patcharee Suwannakood (patcharee@jaroendeekhuen.com) : Tel +66 97 040 0030
+4. John Khai (https://www.linkedin.com/in/john-kai-0672b0287/) 
 
 I understand that I will be required to provide additional KYC information to the JIBChain  to receive this grant: 
 - [x] **Yes**
 - [ ] No
 
 ## Recipient address:
-`0x8A0E6A5819780457b7d2C86466fc08ccE5521056`
+`0x8A0E6A5819780457b7d2C86466fc08ccE5521056` 
 
 ## Grant category: 
 - [X] DeFi
