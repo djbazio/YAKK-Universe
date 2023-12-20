@@ -73,11 +73,31 @@ The YAKK project aims to address the lack of a comprehensive platform in the JIB
 
 ## Proposal for token distribution:
 
-ใช้สำหรับเป็นค่าใช้จ่าย
-1. **Development and Operations:** Allocating a significant portion to fund ongoing development, technical infrastructure, staff, and operational costs.
-2. **Marketing and Community Building:** A portion dedicated to marketing efforts, community engagement, and user acquisition strategies.
-3. **Strategic Partnerships and Collaborations:** Funds set aside for forging partnerships and collaborations that enhance the platform's capabilities and reach.
-4. **Reserves:** A reserve pool for unforeseen expenses or future expansions.
-5. **User Rewards and Incentives:** Tokens allocated for rewarding active users and incentivizing participation within the platform.
+## JIB Token Distribution Plan for YAKK Project
+
+### Allocation Percentages and Justifications
+
+- **Development and Operations - 30%**
+  - _Justification_: Critical for building and maintaining a robust platform, ensuring functionality and addressing operational needs.
+- **Marketing and Community Building - 20%**
+  - _Justification_: Vital for user acquisition and engagement, establishing a strong user base.
+- **Liquidity Mining - 25%**
+  - _Justification_: Encourages liquidity provision, essential for a healthy trading environment.
+- **User Rewards - 15%**
+  - _Justification_: Incentivizes active platform use, driving consistent engagement.
+- **Strategic Partnerships - 10%**
+  - _Justification_: Expands platform capabilities and reach through collaborations.
+
+### Distribution Timeline
+
+- Short-term span (over weeks), facilitating rapid assessment and response to achieved milestones.
+
+### Milestones and KPIs
+
+[will be updated once granted proposal]
+- User growth rate
+- Transaction volume
+- Number of active partnerships
+
 
 Each allocation aims to ensure sustainable growth and the long-term success of YAKK within the JIBChain ecosystem.
