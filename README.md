@@ -7,7 +7,7 @@ YAKK THAI NETWORK
 1. Sumaytawadee Seehabong (sumay.s@jaroendeekhuen.com) : Tel +66 64 251 4454
 2. Pongsin Pongwachirint (pongsin.p@jaroendeekhuen.com) : Tel +66 64 924 4991
 3. Patcharee Suwannakood (patcharee@jaroendeekhuen.com) : Tel +66 97 040 0030
-4. John Khai (https://www.linkedin.com/in/john-kai-0672b0287/) 
+4. John Kai (https://www.linkedin.com/in/john-kai-0672b0287/) 
 
 I understand that I will be required to provide additional KYC information to the JIBChain  to receive this grant: 
 - [x] **Yes**
